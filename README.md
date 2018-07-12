@@ -10,7 +10,7 @@
     f、新建一个使用数据库的模块，创建存储数据的函数：使用pycharm连接数据库，创建游标执行SQL语句存入数据
   #### 2、创建爬虫控制线程：
      使用while循环读取键盘输入，设置爬虫执行时间间隔和是否终止
-  #### 3、创建主函数，启动线程
+  #### 3、创建主函数，启动线程 
 ### 二、根据数据库数创建图表
   #### 1、创建折线图表
      a、引入matplotlib.pyplot模块
@@ -33,3 +33,7 @@
      h、将图表横轴坐标刻度旋转45度：plt.xticks(rotation=45)
      i、保存图表
      j、显示图表
+### 三、结果图：
+ ![数据图](https://raw.githubusercontent.com/ZS140/img_storage/master/%E6%95%B0%E6%8D%AE.jpg)
+ ![折线图](https://raw.githubusercontent.com/ZS140/img_storage/master/%E8%82%A1%E7%A5%A8%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
+ ![K线图](https://raw.githubusercontent.com/ZS140/img_storage/master/%E8%82%A1%E7%A5%A8K%E7%BA%BF%E5%9B%BE.png)
